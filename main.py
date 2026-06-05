@@ -1,0 +1,7 @@
+await bot.load_extension("economy")
+await bot.load_extension("levels")
+await bot.load_extension("afk")
+await bot.load_extension("moderation")
+await bot.load_extension("shop")
+await bot.load_extension("tickets")
+await bot.load_extension("bloxfruits")
